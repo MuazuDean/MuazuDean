@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MuazuDean
 - 👀 I’m interested in web developement/ I.T consulting 
-- 🌱 I’m currently learning/working as web developer and /I.T consultant 
-- 💞️ I’m looking to collaborate on with col developer so we explore in tech and build together
+- 🌱 I’m currently learning/working as a web developer and /I.T consultant 
+- 💞️ I’m looking to collaborate with co developer so we can explore in tech and build together
 - 📫 How to reach me
 <!---
 MuazuDean/MuazuDean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
