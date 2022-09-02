@@ -11,9 +11,6 @@ Experience with Github or similar version control systems
 Outstanding project management and communications skills
 Excellent analytical and problem-solving skills.
 
-I will be glad if my proposal is been favourable considered.
-
-
 <!---
 MuazuDean/MuazuDean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
